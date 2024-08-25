@@ -1,4 +1,4 @@
-package imojaek.week1.first_attempt;
+package imojaek.week2.first_attempt;
 
 import java.util.ArrayList;
 import java.util.List;
