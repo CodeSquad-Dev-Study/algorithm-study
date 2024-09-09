@@ -1,4 +1,4 @@
-package horanga.weeks4.first_attempt;
+package horanga.week4.first_attempt;
 
 import java.util.Queue;
 import java.util.Scanner;

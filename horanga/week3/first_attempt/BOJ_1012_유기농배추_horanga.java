@@ -1,4 +1,4 @@
-package horanga.weeks3.first_attempt;
+package horanga.week3.first_attempt;
 
 import java.io.BufferedReader;
 import java.io.IOException;
