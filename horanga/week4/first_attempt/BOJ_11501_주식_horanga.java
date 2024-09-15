@@ -1,4 +1,4 @@
-package horanga.weeks4.first_attempt;
+package horanga.week4.first_attempt;
 
 import java.io.*;
 import java.util.StringTokenizer;

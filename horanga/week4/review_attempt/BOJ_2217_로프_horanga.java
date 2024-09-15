@@ -1,4 +1,4 @@
-package horanga.weeks4.review_attempt;
+package horanga.week4.review_attempt;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package horanga.weeks4.first_attempt;
+package horanga.week4.first_attempt;
 
 import java.util.Scanner;
 public class BOJ_2847_게임을만든동준이_horanga {
