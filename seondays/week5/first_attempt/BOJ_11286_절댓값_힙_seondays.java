@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class BOJ_절댓값_힙_seondays {
+public class BOJ_11286_절댓값_힙_seondays {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
