@@ -6,7 +6,7 @@ class PG_신고결과받기 {
         int[] answer = new int[id_list.length];
 
         Map<String, List<String>> map = new HashMap<>();
-        Map<String Map<String, Integer>> reported = new HashMap<>();
+        Map<String, Map<String, Integer>> reported = new HashMap<>();
         for (String id : id_list) {
             map.put(id, new ArrayList<String>());
             reported.put(id, new HashMap<>());
