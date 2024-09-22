@@ -1,4 +1,4 @@
-package horanga.week5.first_attempt;
+package horanga.weeks6.first_attempt;
 
 import java.util.PriorityQueue;
 import java.util.Queue;
