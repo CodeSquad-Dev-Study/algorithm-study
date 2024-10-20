@@ -1,4 +1,4 @@
-package horanga.weeks10;
+package horanga.weeks10.first_attempt;
 
 import java.util.*;
 public class PG_폰켓몬_horanga {
