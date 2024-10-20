@@ -1,4 +1,4 @@
-package dnjsxo0616.week9;
+package dnjsxo0616.week9.first_attempt;
 
 import java.util.HashMap;
 import java.util.Map;
