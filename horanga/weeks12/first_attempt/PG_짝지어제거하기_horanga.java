@@ -20,4 +20,4 @@ public class PG_짝지어제거하기_horanga {
 
             return stack.isEmpty()? 1: 0;
         }
-    }}
+    }
